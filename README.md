@@ -1,1 +1,3 @@
-# diplomado2026-pucp
+This is a repo for class 
+
+*Melina Rozas* 
